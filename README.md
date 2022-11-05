@@ -1,16 +1,11 @@
-# compass
+# Compass
 
-A new Flutter project.
+<br>
 
-## Getting Started
+This is a simple compass app.  
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+![alt](https://github.com/1psrishti/Compass/blob/master/lib/images/screenshot.jpeg?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
